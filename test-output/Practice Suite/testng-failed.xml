@@ -6,7 +6,8 @@
       <class name="TestNG.ForgetPassword">
         <methods>
           <include name="afterTest"/>
-          <include name="FP_02"/>
+          <include name="FP_01"/>
+          <include name="check_run"/>
           <include name="before"/>
         </methods>
       </class> <!-- TestNG.ForgetPassword -->

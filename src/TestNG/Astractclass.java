@@ -27,6 +27,6 @@ public class Astractclass {
 	}
 	@AfterTest
 	public void afterTest() {
-		//driver.close();
+		driver.close();
 	}
 }
